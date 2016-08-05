@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="nodamushi_sdcc" url="https://github.com/nodamushi/nodamushi_sdcc/">
+   <description name="nodamushi_sdcc" url="https://nodamushi.github.io/nodamushi_sdcc/">
       github page
    </description>
    <feature url="features/nodamushi.cdt.parser.sdcc.feature_1.0.0.jar" id="nodamushi.cdt.parser.sdcc.feature" version="1.0.0">
